@@ -1,0 +1,1 @@
+The Expense Tracker Web App, developed using ASP.NET MVC, is designed to help users manage and track their daily expenses efficiently. The app provides the ability to add, edit, and delete expenses and generates a comprehensive overview of the total expenditures.
